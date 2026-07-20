@@ -1,0 +1,10 @@
+{
+  "name": "Nova Visão Pro",
+  "description": "Enxergando oportunidade e unindo destinos. Plataforma global e exclusiva de compra, venda e aluguel de imóveis de luxo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
